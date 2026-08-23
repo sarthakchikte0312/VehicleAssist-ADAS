@@ -34,4 +34,3 @@ FCWS / LDWS / LKAS
 
 The project will initially develop and test each detection module separately before integrating them into a complete vision-based ADAS system.
 
-> **Note:** This project is intended for educational and research purposes.
