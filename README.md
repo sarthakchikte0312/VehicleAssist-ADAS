@@ -1,4 +1,4 @@
-# VehicleAssist-ADAS 🚗
+# VehicleAssist-ADAS 
 
 A vision-based **Advanced Driver Assistance System (ADAS)** built using **Raspberry Pi 4 (2 GB)** and a camera.
 
